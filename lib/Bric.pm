@@ -10,7 +10,7 @@ Bric - The Bricolage base class.
 
 =cut
 
-# Set the Version Number.
+# Set the Version Number. Ping pon
 BEGIN {
     our $VERSION = '2.1.0';
 }
